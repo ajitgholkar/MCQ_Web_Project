@@ -1,0 +1,16 @@
+userData = [
+	{
+		"user_name": "admin",
+		"password": "admin",
+		"email": "admin",
+		"phone": "",
+		"security_ques": "admin"
+	},
+	{
+		"user_name": "",
+		"password": "",
+		"email": "",
+		"phone": "",
+		"security_ques": ""
+	}
+];
