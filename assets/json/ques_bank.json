@@ -1,0 +1,153 @@
+quesBankData = [
+	{
+		"img_url": "./img/traffic_light.jpg",
+		"Ans": "Traffic lights ahead",
+		"Options":{
+			"option_a":"danger",
+			"option_b":"coloured panels ahea may cause glare",
+			"option_c":"stop",
+			"option_d":"Traffic lights ahead",
+		}
+	},
+	{
+		"img_url": "./img/speed20.jpg",
+		"Ans": "speed is now 20",
+		"Options":{
+			"option_a":"speed is now 30",
+			"option_b":"speed is now 20",
+			"option_c":"there is a junction in 20m",
+			"option_d":"it's 20 degrees outside",
+		}
+	},
+	{
+		"img_url": "./img/slippery_road_sign.jpg",
+		"Ans": "slippery road ahead",
+		"Options":{
+			"option_a":"ice on road ahead",
+			"option_b":"curvy road ahead",
+			"option_c":"rough surface",
+			"option_d":"slippery road ahead",
+		}
+	},
+	{
+		"img_url": "./img/no_overtaking.jpg",
+		"Ans": "no overtaking",
+		"Options":{
+			"option_a":"dual carriageway",
+			"option_b":"one car at any given time allowed",
+			"option_c":"no overtaking",
+			"option_d":"None of the above",
+		}
+	},
+	{
+		"img_url": "./img/lane_ahead_closed.jpg",
+		"Ans": "lane ahead is closed",
+		"Options":{
+			"option_a":"T junction ahead",
+			"option_b":"work ahead",
+			"option_c":"car park ahead",
+			"option_d":"lane ahead is closed",
+		}
+	},
+	{
+		"img_url": "./img/roundabout_symbol.jpg",
+		"Ans": "roundabout",
+		"Options":{
+			"option_a":"hole ahead",
+			"option_b":"roundabout",
+			"option_c":"mini roundabout",
+			"option_d":"U turn not allowed",
+		}
+	},
+	{
+		"img_url": "./img/humpback_bridge_ahead.jpg",
+		"Ans": "humpback bridge ahead",
+		"Options":{
+			"option_a":"humps in the road",
+			"option_b":"tunnel",
+			"option_c":"hills ahead",
+			"option_d":"humpback bridge ahead",
+		}
+	},
+	{
+		"img_url": "./img/opening_or_swing_bridge_ahead.jpg",
+		"Ans": "opening or swing bridge ahead",
+		"Options":{
+			"option_a":"entrance into the water",
+			"option_b":"opening or swing bridge ahead",
+			"option_c":"road is broken",
+			"option_d":"bridge has been dismantled",
+		}
+	},
+	{
+		"img_url": "./img/national_speed_limit_applies.jpg",
+		"Ans": "national speed limit applies",
+		"Options":{
+			"option_a":"no entry",
+			"option_b":"stop",
+			"option_c":"national speed limit applies",
+			"option_d":"drive at whatever speed seems right to you",
+		}
+	},
+	{
+		"img_url": "./img/permit_holders_only_parking.jpg",
+		"Ans": "parking restricted to permit holders",
+		"Options":{
+			"option_a":"no parking",
+			"option_b":"parking restricted to permit holders",
+			"option_c":"parking restricted for permit holders",
+			"option_d":"None of the above",
+		}
+	},
+	{
+		"img_url": "./img/contr_flow_bus_lane.jpg",
+		"Ans": "contra flow bas lane",
+		"Options":{
+			"option_a":"contra flow bus lane",
+			"option_b":"buses not allowed",
+			"option_c":"with flow bus lane",
+			"option_d":"bus lane can be used by cars",
+		}
+	},
+	{
+		"img_url": "./img/no_motor_vehicles.jpg",
+		"Ans": "no motor vehicles",
+		"Options":{
+			"option_a":"no motor vehicles",
+			"option_b":"only motor vehicles allowed",
+			"option_c":"no parking for motor vehicles",
+			"option_d":"motorcyclists have priority",
+		}
+	},
+	{
+		"img_url": "./img/mini_roundabout.jpg",
+		"Ans": "mini roundabout",
+		"Options":{
+			"option_a":"roundabout",
+			"option_b":"turntable ahead",
+			"option_c":"hurricane",
+			"option_d":"mini roundabout",
+		}
+	},
+	{
+		"img_url": "./img/no_through_road_for_vehicles.jpg",
+		"Ans": "no through road for vehicles",
+		"Options":{
+			"option_a":"no through road road for vehicles",
+			"option_b":"buses not allowed",
+			"option_c":"cycles not allowed",
+			"option_d":"danger ahead",
+		}
+	},
+	{
+		"img_url": "./img/countdown_marker.jpg",
+		"Ans": "countdown markers a exit from motorway",
+		"Options":{
+			"option_a":"countdown markers at each exit from motorway",
+			"option_b":"re-fuelling station ahead",
+			"option_c":"three lanes",
+			"option_d":"none",
+		}
+	},
+	
+];
