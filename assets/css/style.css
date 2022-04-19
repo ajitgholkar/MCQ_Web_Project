@@ -44,7 +44,22 @@ form .form-field:nth-child(1)::before {
   top: 15px;
 }
 form .form-field:nth-child(2)::before {
+  background-image: url(../img/email-icon.png);
+  width: 16px;
+  height: 16px;
+}
+form .form-field#passfield::before {
   background-image: url(../img/lock-icon.png);
+  width: 16px;
+  height: 16px;
+}
+form .form-field:nth-child(4)::before {
+  background-image: url(../img/lock-icon.png);
+  width: 16px;
+  height: 16px;
+}
+form .form-field.verify::before {
+  background-image: url(../img/verify-icon.png);
   width: 16px;
   height: 16px;
 }
