@@ -104,3 +104,32 @@ form .btn {
   box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
   font-size: 17px;
 }
+
+
+form .dashboard-btn-options {
+  background-color: #47ab1154;
+  width: 60%;
+}
+form .dashboard-btn-options:hover{
+  background-color: #47AB11;
+}
+
+.text-align-center{
+  text-align: center;
+}
+
+.logout-btn {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.6rem 1.5rem;
+  text-align: center;
+  background-color: #47AB11;
+  color: #fff;
+  border-radius: 4px;
+  box-shadow: 0px 3px 6px rgb(0 0 0 / 16%);
+  font-size: 20px;
+}
