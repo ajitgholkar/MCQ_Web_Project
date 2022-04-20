@@ -40,7 +40,7 @@ function gotoRegistrationPage(){
  * method to go to login page
  */
 function gotologinPage(){
-	location.href = './loginPage.html';
+	location.href = './index.html';
 }
 
 /**
@@ -68,7 +68,7 @@ function savetolocal(){
 	}
 	userDataArray.push(newUserData)
 	window.localStorage.setItem("user_data",JSON.stringify(userDataArray));
-	location.href = './loginPage.html';
+	location.href = './index.html';
 }
 
 /**
