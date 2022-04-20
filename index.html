@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Login Page with Background Image Example</title>
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script type="text/javascript" src="./assets/json/ques_bank.json"></script>
+  <script type="text/javascript" src="./assets/json/user_data.json"></script>
+  <script type="text/javascript" src="./assets/js/main.js"></script>
+</head>
+
+<body onload="readQuesBankData()">
+  <div id="bg"></div>
+
+  <form>
+    <div class="form-field">
+      <input id="userName" type="email" placeholder="Email / Username" required />
+    </div>
+
+    <div class="form-field" id="passfield">
+      <input id="password" type="password" placeholder="Password" required />
+    </div>
+
+    <div class="form-field">
+      <button class="btn" onclick="login()">Log in</button>
+      <button class="btn" type="button" onclick="gotoRegistrationPage()">Register</button>
+    </div>
+  </form>
+</body>
+
+</html>
