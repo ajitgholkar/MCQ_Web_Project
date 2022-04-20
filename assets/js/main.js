@@ -70,3 +70,10 @@ function savetolocal(){
 	window.localStorage.setItem("user_data",JSON.stringify(userDataArray));
 	location.href = './loginPage.html';
 }
+
+/**
+ * method to go to take quiz page
+ */
+function gotoQuizPage(){
+	location.href = './quizPage.html';
+}
